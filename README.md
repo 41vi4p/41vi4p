@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  Email: dav7.digi@gmail.com
+  Email ID: [dav7.digi@gmail.com](mailto:dav7.digi@gmail.com) <br>
 <a href="https://linkedin.com/in/david-porathur-33780228a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-porathur-33780228a" height="30" width="40" /></a>
 </p>
 
