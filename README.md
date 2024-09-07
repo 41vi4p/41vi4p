@@ -8,7 +8,6 @@ Interests:</p>
 <li>Internet of Things (IoT)</li>
 <li>Artificial Intelligence (AI)</li>
 <li>Machine Learning (ML)</li>
-<li>Tech Gadgets</li>
 <li>Trying out various Linux Flavours #LinuxUser</li>
 </ul>
 <p>If you are someone with similar interests as me feel free to connect with me on Linkedln</p>
