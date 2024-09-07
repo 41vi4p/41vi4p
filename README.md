@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Porathur</h1>
 <h3 align="center">A passionate Tech Enthusiast. Currently pursuing BE in Electronics and Computer Science from Fr.Conceicao Rodrigues College of Engineering</h3>
-
+<p>I'm always ready to explore new stuff related to Raspberry Pi, Internet of Things (IoT), Aritificial Intelligence, Machine Learning and not forget trying out and testing new tech gadgets and improving them.</p>
+<p>If you are someone with similar interests as me feel free to connect with me on Linkedln</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 Email ID: <a href="mailto:dav7.digi@gmail.com">dav7.digi@gmail.com</a> <br>
