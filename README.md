@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Porathur</h1>
 <h3 align="center">A passionate Tech Enthusiast. Currently pursuing BE in Electronics and Computer Science from Fr.Conceicao Rodrigues College of Engineering</h3>
-<p>I’m always ready to explore and learn new things related to Raspberry Pi, CyberSecurity,Internet of Things (IoT), Artificial Intelligence (AI), and Machine Learning (ML). I also enjoy trying out and testing new tech gadgets and finding ways to improve them.
+<p>I’m always ready to explore and learn new things related to Raspberry Pi, Cybersecurity, Internet of Things (IoT), Artificial Intelligence (AI), and Machine Learning (ML). I also enjoy trying out and testing new tech gadgets and finding ways to improve them.
 <br>
 Interests:</p>
 <ul>
