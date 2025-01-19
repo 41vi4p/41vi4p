@@ -17,7 +17,7 @@ Email ID: <a href="mailto:dav7.digi@gmail.com">dav7.digi@gmail.com</a> <br>
 <a href="https://linkedin.com/in/david-porathur-33780228a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-porathur-33780228a" height="30" width="40" /></a>
 </p>
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=41vi4p&theme=blue-green&show_icons=true)  <br>   ![Top Langs](https://api.githubtrends.io/user/svg/41vi4p/langs?time_range=one_year&use_percent=True&include_private=True&theme=dark) ![Top_Repos](https://api.githubtrends.io/user/svg/41vi4p/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)
+<p>    </p> ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=41vi4p&theme=blue-green&show_icons=true)  <br>   ![Top Langs](https://api.githubtrends.io/user/svg/41vi4p/langs?time_range=one_year&use_percent=True&include_private=True&theme=dark) ![Top_Repos](https://api.githubtrends.io/user/svg/41vi4p/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)
 
 
 <h3 align="left">Languages and Tools:</h3>
