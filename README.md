@@ -18,9 +18,8 @@ Email ID: <a href="mailto:dav7.digi@gmail.com">dav7.digi@gmail.com</a> <br>
 </p>
 
 
-&emsp;&emsp;&emsp;&emsp; ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=41vi4p&theme=blue-green&show_icons=true)  <br>   ![Top Langs](https://api.githubtrends.io/user/svg/41vi4p/langs?time_range=one_year&use_percent=True&include_private=True&theme=dark) ![Top_Repos](https://api.githubtrends.io/user/svg/41vi4p/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)
+&emsp;&emsp;&emsp;&emsp; ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=41vi4p&theme=blue-green&show_icons=true&include_all_commits=true)  <br>   ![Top Langs](https://api.githubtrends.io/user/svg/41vi4p/langs?time_range=one_year&use_percent=True&include_private=True&theme=dark) ![Top_Repos](https://api.githubtrends.io/user/svg/41vi4p/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=41vi4p&include_all_commits=true)
 
 
 
