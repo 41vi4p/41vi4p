@@ -4,6 +4,7 @@
 <br>
 Interests:</p>
 <ul>
+<li>Cybersecurity</li>
 <li>Raspberry Pi</li>
 <li>Internet of Things (IoT)</li>
 <li>Artificial Intelligence (AI)</li>
