@@ -5,10 +5,10 @@
 Interests:</p>
 <ul>
 <li>Cybersecurity</li>
+<li>OS Architecture</li>
+<li>Designing Software and Protocols for Secure Data Transmission</li>
 <li>Raspberry Pi</li>
 <li>Internet of Things (IoT)</li>
-<li>Artificial Intelligence (AI)</li>
-<li>Machine Learning (ML)</li>
 <li>Trying out various Linux Flavours #LinuxUser</li>
 </ul>
 <p>If you are someone with similar interests as me feel free to connect with me on Linkedln</p>
