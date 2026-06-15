@@ -129,7 +129,6 @@
 </p>
 
 
-<img src="https://img.shields.io/github/followers/41vi4p.svg?style=social&label=Follow" style="max-width: 100%;" />
 
 
 
