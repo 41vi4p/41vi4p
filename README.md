@@ -90,12 +90,8 @@
 <samp>ML & Vision</samp> | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white) |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-
 </details>
 <br>
-
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Github Metrics ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -122,9 +118,5 @@
    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">
    </a>
 </p>
-
-
-
-
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
