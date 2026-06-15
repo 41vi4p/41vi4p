@@ -3,7 +3,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <h1 align="center">Hi there, I'm David Porathur 👋</h1>
-<h3 align="center">Final Year Student · Software Development · Cybersecurity · Systems Design · IoT</h3>
+<h3 align="center">Final Year Student · Software Developer · Cybersecurity · Systems Design · IoT</h3>
 
 <br>
 
@@ -105,10 +105,6 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My GitHub Metrics
 <br>
-<details>
-  <summary><strong>📊 Click to Expand Stats</strong></summary>
-  <br>
-
 <div align="center">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=41vi4p&theme=calm">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=41vi4p&theme=calm">
@@ -118,23 +114,9 @@
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=41vi4p&theme=calm&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=41vi4p&theme=calm">
 </div>
-
-
-</details>
 <br>
 <br>
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Social Links -------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> The Online Hangout
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/davidporathur/"><img src="https://img.shields.io/badge/linkedin-0A0A0A?style=for-the-badge&logo=invision&logoColor=white" /></a>
-  <a href="mailto:dav7.digi@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a href="https://github.com/41vi4p"><img src="https://img.shields.io/badge/Github-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" /></a>
-</div>
 
 <hr>
 
@@ -146,26 +128,9 @@
    </a>
 </p>
 
-# Github Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=41vi4p&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="41vi4p" /></p>
-
-<p align="left"><img
-    src="https://github-readme-stats.vercel.app/api?username=41vi4p&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
-    alt="41vi4p" height="170" /></p>
 
 <img src="https://img.shields.io/github/followers/41vi4p.svg?style=social&label=Follow" style="max-width: 100%;" />
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- 3D Contribution Graph ---------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<div align="center">
-<h1>CONTRIBUTIONS</h1>
-</div>
-
-<div align="center">
-<img alt="Contributions" height="80%" width="80%" src="./profile-3d-contrib/profile-night-rainbow.svg">
-</div>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
