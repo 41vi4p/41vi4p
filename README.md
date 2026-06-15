@@ -104,19 +104,10 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=41vi4p&theme=calm">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=41vi4p&theme=calm">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=41vi4p&theme=calm&utcOffset=5.5">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=41vi4p&theme=calm&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=41vi4p&theme=calm">
+
 </div>
 <br>
-<br>
-
-
-<hr>
-
-<p align="center">
-   <a>
-   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=41vi4p&theme=dark&hide_border=true"/>
-   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">
-   </a>
-</p>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
