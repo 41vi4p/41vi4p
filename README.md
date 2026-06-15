@@ -111,8 +111,6 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=41vi4p&theme=calm">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=41vi4p&theme=calm">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=41vi4p&theme=calm&utcOffset=5.5">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=41vi4p&theme=calm&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=41vi4p&theme=calm">
 </div>
 <br>
 <br>
