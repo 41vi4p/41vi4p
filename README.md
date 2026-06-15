@@ -3,7 +3,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <h1 align="center">Hi there, I'm David Porathur 👋</h1>
-<h3 align="center">Final Year ECS Student · Cybersecurity · Systems Design · IoT</h3>
+<h3 align="center">Final Year Student · Software Development · Cybersecurity · Systems Design · IoT</h3>
 
 <br>
 
@@ -54,7 +54,7 @@
 
 🎯 &nbsp; **Lead** at **Project Cell CRCE** (3 Years) — organized workshops, CTF challenges, and Prakalp 4.0: a national-level project expo with 115+ teams.
 
-🎓 &nbsp; Pursuing B.E. ECS with **Honors in Cybersecurity** | CGPA: **8.2 / 10** | Certified: **Google Cloud Cybersecurity** · **AWS Cloud Architecting**.
+🎓 &nbsp; Pursuing B.E. ECS with **Honors in Cybersecurity** | Certified: **Google Cloud Cybersecurity** · **AWS Cloud Architecting**.
 
 </div>
 
@@ -68,11 +68,11 @@
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| **CRCEats** | Full SaaS platform for college canteen ordering — real-time tracking, QR order verification & PhonePe payments | React Native · Firebase · TypeScript |
+| [**CRCEats**](https://crceats.in/) | Full SaaS platform for college canteen ordering — real-time tracking, QR order verification & PhonePe payments | React Native · Firebase · TypeScript |
 | [**PanelSena**](https://github.com/41vi4p/PanelSena) ⭐ | Cloud-based digital signage for centralized management of unlimited Raspberry Pi & Android displays | Firebase · Raspberry Pi · Android |
-| [**Echo ATT&CK**](https://github.com/41vi4p/EchoATTACK) ⭐ | Cybersecurity threat intelligence dashboard visualizing MITRE ATT&CK data for APT group analysis with automated CI/CD | Python · GitHub Actions |
+| [**Echo ATT&CK**](https://github.com/41vi4p/Echo-ATTACK) ⭐ | Cybersecurity threat intelligence dashboard visualizing MITRE ATT&CK data for APT group analysis with automated CI/CD | Python · GitHub Actions |
 
-> ⭐ Open Source &nbsp;·&nbsp; Update the project links above with your exact repo names!
+> ⭐ Open Source &nbsp;·&nbsp; 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -94,14 +94,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<br>
-<hr>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=41vi4p&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="41vi4p" />
 
 </details>
 <br>
@@ -126,15 +119,6 @@
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=41vi4p&theme=calm">
 </div>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=41vi4p&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=41vi4p&theme=vue&hide_border=true" alt="Contribution Graph" />
-</div>
 
 </details>
 <br>
@@ -171,5 +155,17 @@
     alt="41vi4p" height="170" /></p>
 
 <img src="https://img.shields.io/github/followers/41vi4p.svg?style=social&label=Follow" style="max-width: 100%;" />
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- 3D Contribution Graph ---------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+<div align="center">
+<h1>CONTRIBUTIONS</h1>
+</div>
+
+<div align="center">
+<img alt="Contributions" height="80%" width="80%" src="./profile-3d-contrib/profile-night-rainbow.svg">
+</div>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
